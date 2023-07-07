@@ -6,7 +6,7 @@
     "user_avatar": "legat.png",
     "amount_gen": 180,
     "max_context": 2048,
-    "main_api": "openai",
+    "main_api": "poe",
     "world_info": {
         "globalSelect": []
     },
